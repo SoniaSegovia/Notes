@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+      "projectUniqueName": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
       "projectName": "Notes.Android",
-      "projectPath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+      "projectPath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
       "packagesPath": "C:\\Users\\UNIVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.Android\\obj\\",
+      "outputPath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj": {
-              "projectPath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj"
+            "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes\\Notes.csproj": {
+              "projectPath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes\\Notes.csproj"
             }
           }
         }

@@ -5,7 +5,8 @@ using Xamarin.Forms;
 namespace Notes.Views
 {
     public partial class AboutPage : ContentPage
-    {
+    { 
+        // prueba Git
         public AboutPage()
         {
             InitializeComponent();

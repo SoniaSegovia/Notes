@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C6Pe0v7Yjpsn3S4YXkQqcbLigtsIURQKT69HbgHIaLuS883z55wqXEHxjBp7gKJE70fvRhVyStOG79aJqHxTlw==",
+  "dgSpecHash": "3t+dhT86Jl8JIEzoBpDShPvM61Va/wDF2AIZ7YiHLVr35DoPCKelUK7qF7jkUqvXUPLRwJO4HQ++JtIhjgwJwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+  "projectFilePath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UNIVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

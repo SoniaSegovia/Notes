@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "projectName": "Notes.iOS",
-      "projectPath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectPath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "packagesPath": "C:\\Users\\UNIVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes.iOS\\obj\\",
+      "outputPath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj": {
-              "projectPath": "C:\\Users\\UNIVO\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj"
+            "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes\\Notes.csproj": {
+              "projectPath": "C:\\Users\\UNIVO\\Source\\Repos\\Notes\\Notes\\Notes\\Notes.csproj"
             }
           }
         }

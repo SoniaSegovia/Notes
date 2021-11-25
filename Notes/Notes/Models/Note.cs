@@ -7,6 +7,7 @@ namespace Notes.Models
         public string Filename { get; set; }
         public string Text { get; set; }
         public DateTime Date { get; set; }
+        // atodo el codigo que hizo
 
     }
 }
